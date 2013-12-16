@@ -63,6 +63,16 @@ namespace ClubProofReport.Properties {
         /// <summary>
         ///   查詢類型 System.Byte[] 的當地語系化資源。
         /// </summary>
+        internal static byte[] 合併欄位總表 {
+            get {
+                object obj = ResourceManager.GetObject("合併欄位總表", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   查詢類型 System.Byte[] 的當地語系化資源。
+        /// </summary>
         internal static byte[] 社團參與證明單 {
             get {
                 object obj = ResourceManager.GetObject("社團參與證明單", resourceCulture);
