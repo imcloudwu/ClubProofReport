@@ -8,12 +8,12 @@ namespace ClubProofReport
 {
     class Permissions
     {
-        public static string 社團參與證明單 { get { return "ClubProofReport74F8FC9C-1822-4141-BFB2-27507DDD8176"; } }
-        public static bool 社團參與證明單權限
+        public static string 社團參與證明單_高雄 { get { return "ClubProofReport74F8FC9C-1822-4141-BFB2-27507DDD8176"; } }
+        public static bool 社團參與證明單權限_高雄
         {
             get
             {
-                return FISCA.Permission.UserAcl.Current[社團參與證明單].Executable;
+                return FISCA.Permission.UserAcl.Current[社團參與證明單_高雄].Executable;
             }
         }
     }

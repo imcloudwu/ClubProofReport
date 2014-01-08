@@ -170,7 +170,7 @@
             this.Controls.Add(this.labelX1);
             this.DoubleBuffered = true;
             this.Name = "MainForm";
-            this.Text = "社團參與證明單";
+            this.Text = "社團參與證明單(高雄)";
             this.groupPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
