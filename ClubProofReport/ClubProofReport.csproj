@@ -68,11 +68,11 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="K12.Data">
-      <HintPath>..\..\..\..\ischool desktop\modules\SHSchoolLoader\K12.Data.dll</HintPath>
+      <HintPath>library\K12.Data.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="K12.Presentation">
-      <HintPath>..\..\..\..\ischool desktop\modules\SHSchoolLoader\K12.Presentation.dll</HintPath>
+      <HintPath>library\K12.Presentation.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
